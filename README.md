@@ -6,3 +6,7 @@ Support Tampermonkey on Chrome
 After installing Tampermonkey
 Go to Tampermonkey Settings -> Utilities -> Paste the URL below and Import
 https://raw.githubusercontent.com/soruly/Pixiv-Search-Result-Unlocker/master/pixiv-search-unlock.js
+
+# Screenshot
+This script removes the block as shown below
+![screenshot](https://na.cx/i/d19Uxg.jpg)
