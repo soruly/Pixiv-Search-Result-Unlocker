@@ -9,4 +9,4 @@ https://raw.githubusercontent.com/soruly/Pixiv-Search-Result-Unlocker/master/pix
 
 # Screenshot
 This script removes the block as shown below
-![screenshot](https://na.cx/i/d19Uxg.jpg)
+![screenshot](https://github.com/soruly/Pixiv-Search-Result-Unlocker/blob/master/screenshot.jpg)
