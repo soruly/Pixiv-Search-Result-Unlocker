@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Filter out less popular images from pixiv
 // @author       You
-// @match        http://www.pixiv.net/search.php?*
+// @match        *://www.pixiv.net/search.php?*
 // @grant        none
 // ==/UserScript==
 
