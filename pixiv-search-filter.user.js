@@ -13,7 +13,7 @@
 
     var observer = new MutationObserver(function(mutations) {
         mutations.forEach(function(mutation) {
-            if(document.querySelector("#js-mount-point-search-result-list").querySelectorAll("figure").length > 0){
+            if(document.querySelector("#js-react-search-mid").querySelectorAll("figure").length > 0){
                 if(document.querySelector('.popular-introduction')) {
                     document.querySelector('.popular-introduction').style.position = 'initial';
                     document.querySelectorAll(".column-search-result .image-item")[5].style.marginBottom = '-500px';
