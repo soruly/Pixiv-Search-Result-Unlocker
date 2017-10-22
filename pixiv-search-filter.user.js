@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pixiv Search Result Filter
 // @namespace    https://github.com/soruly/Pixiv-Search-Result-Unlocker
-// @version      0.2
+// @version      0.3
 // @description  Filter out less popular images from pixiv
 // @author       soruly
 // @match        *://www.pixiv.net/search.php?*
