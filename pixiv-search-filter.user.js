@@ -30,5 +30,5 @@
             }
         });
     });
-    observer.observe(document.querySelector("#js-mount-point-search-result-list"), { attributes: true, childList: true, characterData: true });
+    observer.observe(document.querySelector("#js-react-search-mid"), { attributes: true, childList: true, characterData: true });
 }());
